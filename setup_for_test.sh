@@ -1,8 +1,8 @@
 #!/bin/bash
 
-################################################
-# Create directory full of root permission files
-################################################
+##########################################################
+# Create directory full of root ownership/permission files
+##########################################################
 
 # Make directory and change directory
 mkdir -p "dir_full_of_root_files"
